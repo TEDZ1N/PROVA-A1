@@ -88,8 +88,11 @@ Entrada:
 
 Digite números para somar. Digite 0 para encerrar.
 Número: 5
+
 Número: 3
+
 Número: 2
+
 Número: 0
 
 
@@ -102,8 +105,11 @@ A soma total é: 10.0
 Entrada:
 
 Número: 10
+
 Número: -4
+
 Número: 1
+
 Número: 0
 
 
@@ -152,7 +158,9 @@ Digite números separados por espaço: 5 2 8 1 9
 Saída:
 
 Maior número: 9.0
+
 Menor número: 1.0
+
 Quantidade de números digitados: 5
 
 # Exemplo 2
@@ -165,7 +173,9 @@ Digite números separados por espaço: 10 10 3 7
 Saída:
 
 Maior número: 10.0
+
 Menor número: 3.0
+
 Quantidade de números digitados: 4
 
 # Exemplo 3
@@ -178,7 +188,9 @@ Digite números separados por espaço: -1 -5 -3
 Saída:
 
 Maior número: -1.0
+
 Menor número: -5.0
+
 Quantidade de números digitados: 3
 
 Para utilizar este codigo de uma maneira mais facil, entre no Google Colab cole o código e execute o código.
@@ -188,7 +200,9 @@ Para utilizar este codigo de uma maneira mais facil, entre no Google Colab cole 
 Entrada:
 
 Digite o nome do aluno: João
+
 Digite a idade do aluno: 18
+
 Digite o curso do aluno: Ciência da Computação
 
 
@@ -196,7 +210,9 @@ Saída:
 
 --- Dados do Aluno ---
 Nome: João
+
 Idade: 18
+
 Curso: Ciência da Computação
 
 # Exemplo 2
@@ -204,7 +220,9 @@ Curso: Ciência da Computação
 Entrada:
 
 Digite o nome do aluno: Maria
+
 Digite a idade do aluno: 22
+
 Digite o curso do aluno: Engenharia
 
 
@@ -212,5 +230,7 @@ Saída:
 
 --- Dados do Aluno ---
 Nome: Maria
+
 Idade: 22
+
 Curso: Engenharia
