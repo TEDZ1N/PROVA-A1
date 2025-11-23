@@ -20,7 +20,7 @@ Isso é feito usando condicionais if, elif e else.
 
 Para utilizar este codigo de uma maneira mais facil, entre no Google Colab cole o código e execute o código.
 
-// Aqui em baixo teremos 4 exemplos de entradas e saidas do código:
+/ Aqui em baixo teremos 4 exemplos de entradas e saidas do código:
 
 # Exemplo 1
 
