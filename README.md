@@ -1,8 +1,8 @@
 # PROVA-A1
 Este trabalho foi dado pela PROFESSORA: KHADIDJA VALÈRIA. 
 
-Na primeira parte do trabalho fiz um codigo de Estruturas Condicionais em python:
-# Como funciona o código.
+Na primeira parte do trabalho fiz um codigo de Estruturas Condicionais em python.
+# Como funciona o código:
 
 O programa pede uma nota ao usuário.
 
@@ -65,3 +65,18 @@ Digite a nota do aluno (0 a 10): 12
 Saída:
 
 Nota inválida! Digite um valor entre 0 e 10.
+
+# Nesta segunda parte do trabalho teremos um codigo de Estruturas de Repetição em python.
+# Como funciona o código
+
+A variável soma começa em 0.
+
+O programa entra em um loop while True, que roda para sempre.
+
+Ele pede um número ao usuário.
+
+Se o número for 0, o break interrompe o loop.
+
+Caso contrário, o número é somado.
+
+No final, mostra a soma total.
