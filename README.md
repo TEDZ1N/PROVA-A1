@@ -17,6 +17,7 @@ Se está entre 5 e 6.9 → Recuperação
 Se está entre 7 e 10 → Aprovado
 
 Isso é feito usando condicionais if, elif e else.
+
 Para utilizar este codigo de uma maneira mais facil, entre no Google Colab cole o código e execute o código
 Aqui em baixo teremos 4 exemplos de entradas e saidas do código:
 =======================================================================================================================================
