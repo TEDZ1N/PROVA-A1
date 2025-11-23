@@ -1,8 +1,8 @@
 # PROVA-A1
 # Este trabalho foi dado pela PROFESSORA: KHADIDJA VALÈRIA. 
 
-#Na primeira parte do trabalho fiz um codigo de Estruturas Condicionais em python:
-Como funciona o código:
+# Na primeira parte do trabalho fiz um codigo de Estruturas Condicionais em python:
+# Como funciona o código:
 
 O programa pede uma nota ao usuário.
 
@@ -21,7 +21,7 @@ Isso é feito usando condicionais if, elif e else.
 Para utilizar este codigo de uma maneira mais facil, entre no Google Colab cole o código e execute o código.
 
 # Aqui em baixo teremos 4 exemplos de entradas e saidas do código:
-====================================================================================
+==========================================================================================================================================
 
 # Exemplo 1
 
