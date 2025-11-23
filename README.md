@@ -1,7 +1,7 @@
 # PROVA-A1
-# Este trabalho foi dado pela PROFESSORA: KHADIDJA VALÈRIA. 
+Este trabalho foi dado pela PROFESSORA: KHADIDJA VALÈRIA. 
 
-# Na primeira parte do trabalho fiz um codigo de Estruturas Condicionais em python:
+Na primeira parte do trabalho fiz um codigo de Estruturas Condicionais em python:
 # Como funciona o código:
 
 O programa pede uma nota ao usuário.
