@@ -1,7 +1,7 @@
 # PROVA-A1
 Este trabalho foi dado pela PROFESSORA: KHADIDJA VALÈRIA. 
 
-Na primeira parte do trabalho fiz um codigo de Estruturas Condicionais em python.
+Este trabalho será dividido em 4 partes com 4 códigos em python.
 # Como funciona o código:
 
 O programa pede uma nota ao usuário.
@@ -66,8 +66,7 @@ Saída:
 
 Nota inválida! Digite um valor entre 0 e 10.
 
-# Nesta segunda parte do trabalho teremos um codigo de Estruturas de Repetição em python.
-# Como funciona o código
+# Como funciona o código de Estruturas de Repetição
 
 A variável soma começa em 0.
 
