@@ -2,7 +2,7 @@
 Este trabalho foi dado pela PROFESSORA: KHADIDJA VALÈRIA. 
 
 Este trabalho será dividido em 4 partes com 1 código em python (em cada parte contém apenas um código).
-# Como funciona o código:
+# Como funciona o código de Estruturas Condicionais:
 
 O programa pede uma nota ao usuário.
 
@@ -66,7 +66,7 @@ Saída:
 
 Nota inválida! Digite um valor entre 0 e 10.
 
-# Como funciona o código de Estruturas de Repetição
+# Como funciona o código de Estruturas de Repetição:
 
 A variável soma começa em 0.
 
@@ -79,3 +79,45 @@ Se o número for 0, o break interrompe o loop.
 Caso contrário, o número é somado.
 
 No final, mostra a soma total.
+
+Para utilizar este codigo de uma maneira mais facil, entre no Google Colab cole o código e execute o código.
+# Aqui em baixo teremos 4 exemplos de entradas e saidas do código:
+Exemplo 1
+
+Entrada:
+
+Digite números para somar. Digite 0 para encerrar.
+Número: 5
+Número: 3
+Número: 2
+Número: 0
+
+
+Saída:
+
+A soma total é: 10.0
+
+Exemplo 2
+
+Entrada:
+
+Número: 10
+Número: -4
+Número: 1
+Número: 0
+
+
+Saída:
+
+A soma total é: 7.0
+
+Exemplo 3
+
+Entrada:
+
+Número: 0
+
+
+Saída:
+
+A soma total é: 0
