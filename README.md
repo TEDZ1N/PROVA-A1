@@ -180,3 +180,37 @@ Saída:
 Maior número: -1.0
 Menor número: -5.0
 Quantidade de números digitados: 3
+
+Para utilizar este codigo de uma maneira mais facil, entre no Google Colab cole o código e execute o código.
+# Aqui em baixo teremos 2 exemplos de entradas e saidas do código:
+# Exemplo 1
+
+Entrada:
+
+Digite o nome do aluno: João
+Digite a idade do aluno: 18
+Digite o curso do aluno: Ciência da Computação
+
+
+Saída:
+
+--- Dados do Aluno ---
+Nome: João
+Idade: 18
+Curso: Ciência da Computação
+
+# Exemplo 2
+
+Entrada:
+
+Digite o nome do aluno: Maria
+Digite a idade do aluno: 22
+Digite o curso do aluno: Engenharia
+
+
+Saída:
+
+--- Dados do Aluno ---
+Nome: Maria
+Idade: 22
+Curso: Engenharia
