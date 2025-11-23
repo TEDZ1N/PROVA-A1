@@ -193,6 +193,22 @@ Menor número: -5.0
 
 Quantidade de números digitados: 3
 
+# Como funciona o código de Diciónarios:
+aluno = {}
+
+Cria um dicionário vazio.
+
+aluno["nome"] = ...
+
+Adiciona um novo par chave → valor ao dicionário.
+
+Acesso aos valores
+
+Usamos aluno["nome"], aluno["idade"], etc.
+para acessar os dados guardados.
+
+Dicionários são usados quando você precisa nomear cada valor com uma chave.
+
 Para utilizar este codigo de uma maneira mais facil, entre no Google Colab cole o código e execute o código.
 # Aqui em baixo teremos 2 exemplos de entradas e saidas do código:
 # Exemplo 1
