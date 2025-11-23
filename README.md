@@ -121,3 +121,24 @@ Número: 0
 Saída:
 
 A soma total é: 0
+
+# Como funciona o código de Listas:
+
+input() recebe todos os números em uma linha.
+
+split() separa os valores onde tem espaço.
+
+map(float, ...) converte cada item para número.
+
+list(...) transforma o resultado em uma lista Python.
+
+Depois usamos:
+
+max(lista) → maior valor
+
+min(lista) → menor valor
+
+len(lista) → quantidade de itens
+
+Para utilizar este codigo de uma maneira mais facil, entre no Google Colab cole o código e execute o código.
+# Aqui em baixo teremos 3 exemplos de entradas e saidas do código:
