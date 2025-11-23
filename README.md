@@ -20,7 +20,7 @@ Isso é feito usando condicionais if, elif e else.
 
 Para utilizar este codigo de uma maneira mais facil, entre no Google Colab cole o código e execute o código.
 
-Aqui em baixo teremos 4 exemplos de entradas e saidas do código:
+# Aqui em baixo teremos 4 exemplos de entradas e saidas do código:
 =======================================================================================================================================
 Exemplo 1
 
@@ -32,6 +32,7 @@ Digite a nota do aluno (0 a 10): 8
 Saída:
 
 Resultado: Aprovado
+
 =======================================================================================================================================
 Exemplo 2
 
@@ -43,6 +44,7 @@ Digite a nota do aluno (0 a 10): 5.5
 Saída:
 
 Resultado: Recuperação
+
 =======================================================================================================================================
 Exemplo 3
 
@@ -54,6 +56,7 @@ Digite a nota do aluno (0 a 10): 3
 Saída:
 
 Resultado: Reprovado
+
 =======================================================================================================================================
 Exemplo 4
 
@@ -65,4 +68,5 @@ Digite a nota do aluno (0 a 10): 12
 Saída:
 
 Nota inválida! Digite um valor entre 0 e 10.
+
 =======================================================================================================================================
