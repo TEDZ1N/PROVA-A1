@@ -1,5 +1,5 @@
 # PROVA-A1
-# Este trabalho foi dado pela PROFESSORA: KHADIDJA VALÈRIA 
+# Este trabalho foi dado pela PROFESSORA: KHADIDJA VALÈRIA. 
 
 Na primeira parte do trabalho fiz um codigo de Estruturas Condicionais em python:
 Como funciona o código:
@@ -18,7 +18,8 @@ Se está entre 7 e 10 → Aprovado
 
 Isso é feito usando condicionais if, elif e else.
 
-Para utilizar este codigo de uma maneira mais facil, entre no Google Colab cole o código e execute o código
+Para utilizar este codigo de uma maneira mais facil, entre no Google Colab cole o código e execute o código.
+
 Aqui em baixo teremos 4 exemplos de entradas e saidas do código:
 =======================================================================================================================================
 Exemplo 1
