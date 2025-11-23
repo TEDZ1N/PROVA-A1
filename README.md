@@ -81,8 +81,8 @@ Caso contrário, o número é somado.
 No final, mostra a soma total.
 
 Para utilizar este codigo de uma maneira mais facil, entre no Google Colab cole o código e execute o código.
-# Aqui em baixo teremos 4 exemplos de entradas e saidas do código:
-# # Exemplo 1
+# Aqui em baixo teremos 3 exemplos de entradas e saidas do código:
+# Exemplo 1
 
 Entrada:
 
@@ -97,7 +97,7 @@ Saída:
 
 A soma total é: 10.0
 
-Exemplo 2
+# Exemplo 2
 
 Entrada:
 
@@ -111,7 +111,7 @@ Saída:
 
 A soma total é: 7.0
 
-Exemplo 3
+# Exemplo 3
 
 Entrada:
 
