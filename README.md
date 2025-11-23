@@ -1,7 +1,7 @@
 # PROVA-A1
 # Este trabalho foi dado pela PROFESSORA: KHADIDJA VALÈRIA. 
 
-Na primeira parte do trabalho fiz um codigo de Estruturas Condicionais em python:
+#Na primeira parte do trabalho fiz um codigo de Estruturas Condicionais em python:
 Como funciona o código:
 
 O programa pede uma nota ao usuário.
@@ -23,7 +23,7 @@ Para utilizar este codigo de uma maneira mais facil, entre no Google Colab cole 
 # Aqui em baixo teremos 4 exemplos de entradas e saidas do código:
 ====================================================================================
 
-Exemplo 1
+# Exemplo 1
 
 Entrada:
 
@@ -36,7 +36,7 @@ Resultado: Aprovado
 
 ====================================================================================
 
-Exemplo 2
+# Exemplo 2
 
 Entrada:
 
@@ -49,7 +49,7 @@ Resultado: Recuperação
 
 ====================================================================================
 
-Exemplo 3
+# Exemplo 3
 
 Entrada:
 
@@ -62,7 +62,7 @@ Resultado: Reprovado
 
 ====================================================================================
 
-Exemplo 4
+# Exemplo 4
 
 Entrada:
 
