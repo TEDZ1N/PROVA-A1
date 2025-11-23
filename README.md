@@ -209,6 +209,7 @@ Digite o curso do aluno: Ciência da Computação
 Saída:
 
 --- Dados do Aluno ---
+
 Nome: João
 
 Idade: 18
@@ -229,6 +230,7 @@ Digite o curso do aluno: Engenharia
 Saída:
 
 --- Dados do Aluno ---
+
 Nome: Maria
 
 Idade: 22
