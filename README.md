@@ -1,7 +1,7 @@
 # PROVA-A1
 Este trabalho foi dado pela PROFESSORA: KHADIDJA VALÈRIA. 
 
-Este trabalho será dividido em 4 partes com 4 códigos em python.
+Este trabalho será dividido em 4 partes com 1 código em python (em cada parte contém apenas um código).
 # Como funciona o código:
 
 O programa pede uma nota ao usuário.
