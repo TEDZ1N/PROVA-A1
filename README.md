@@ -87,6 +87,7 @@ Para utilizar este codigo de uma maneira mais facil, entre no Google Colab cole 
 Entrada:
 
 Digite números para somar. Digite 0 para encerrar.
+
 Número: 5
 
 Número: 3
