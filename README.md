@@ -131,68 +131,33 @@ A soma total é: 0
 
 # Como funciona o código de Listas:
 
-input() recebe todos os números em uma linha.
+[] serve para acessar posições da lista.
 
-split() separa os valores onde tem espaço.
+A contagem começa em 0.
 
-map(float, ...) converte cada item para número.
+lista[0] → primeiro elemento
 
-list(...) transforma o resultado em uma lista Python.
+lista[1] → segundo elemento
 
-Depois usamos:
-
-max(lista) → maior valor
-
-min(lista) → menor valor
-
-len(lista) → quantidade de itens
+lista[2] → terceiro elemento
 
 Para utilizar este codigo de uma maneira mais facil, entre no Google Colab cole o código e execute o código.
-# Aqui em baixo teremos 3 exemplos de entradas e saidas do código:
+# Aqui em baixo teremos 1 exemplo de entrada e saida do código:
 # Exemplo 1
 
-Entrada:
+frutas = ["maçã", "banana", "laranja"]
 
-Digite números separados por espaço: 5 2 8 1 9
-
-
+print(frutas[0])  # primeiro item
+print(frutas[1])  # segundo item
+print(frutas[2])  # terceiro item
 Saída:
 
-Maior número: 9.0
+perl
+Copiar código
+maçã
+banana
+laranja
 
-Menor número: 1.0
-
-Quantidade de números digitados: 5
-
-# Exemplo 2
-
-Entrada:
-
-Digite números separados por espaço: 10 10 3 7
-
-
-Saída:
-
-Maior número: 10.0
-
-Menor número: 3.0
-
-Quantidade de números digitados: 4
-
-# Exemplo 3
-
-Entrada:
-
-Digite números separados por espaço: -1 -5 -3
-
-
-Saída:
-
-Maior número: -1.0
-
-Menor número: -5.0
-
-Quantidade de números digitados: 3
 
 # Como funciona o código de Diciónarios:
 aluno = {}
